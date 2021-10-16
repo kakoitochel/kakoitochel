@@ -1,5 +1,5 @@
 ### Hi there 👋
-<iframe src="https://open.spotify.com/embed/playlist/3fKrypdEFkhwhW5kUWMSlt?theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 <!--
 **kakoitochel/kakoitochel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
